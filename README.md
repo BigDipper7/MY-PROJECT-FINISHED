@@ -4,6 +4,9 @@ MY-PROJECT-FINISHED
 All my project I contribute to, for memory
 为了防止以后忘掉了，就这么办吧~
 
+## BigDipper7/HackShanghai-Project
+    hackShanghai的一个项目，黑客马拉松，24h完成，666666~
+
 ## limbowang/JiaDingWaiMai
     嘉定外卖网站，网址waimai.tzwm.me，一直在持续中
 
